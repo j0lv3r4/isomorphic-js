@@ -1,0 +1,26 @@
+{
+  "name": "isomorphic-js",
+  "version": "1.0.0",
+  "description": "Isomorphic JavaScript boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkxl/isomorphic-js.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "React",
+    "SSR",
+    "Isomorphic"
+  ],
+  "author": "Juan Olvera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thinkxl/isomorphic-js/issues"
+  },
+  "homepage": "https://github.com/thinkxl/isomorphic-js#readme"
+}
